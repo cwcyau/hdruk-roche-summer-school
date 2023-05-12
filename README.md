@@ -2,22 +2,11 @@
 
 ## Purpose
 
-The purpose of this Summer School is to provide an intensive industry-led training in health data science. 
+The purpose of this Summer School is to provide an intensive industry-led training in health data science. The featured topic of this summer school is **spatial single-cell imaging**. 
 
-The featured topic of this summer school is **spatial single-cell imaging**. 
+During the event, participants will be introduced to the scientific utility of spatial single-cell imaging analysis for molecular investigation. You will learn about the biological questions that motivate the use of spatial single-cell analysis, the technologies allowing data to be acquired, and the workflow of data processing required to convert acquired images into research-ready molecular and cellular analysis datasets. There will be time for participants to work in small groups to explore some exemplar data sets and tackle some research questions under the guidance of Roche scientists.
 
-During the event, participants will be introduced to the scientific utility of spatial single-cell imaging analysis for molecular investigation. You will learn about the biological questions that motivate the use of spatial single-cell analysis, the technologies allowing data to be acquired, and the workflow of data processing required to convert acquired images into research-ready molecular and cellular analysis datasets. There will be time for participants to work in small groups to explore some exemplar data sets and tackle some research questions under the guidance of Roche scientists. 
-
-## Activities
-
-Up to 16 participants will be invited to a 5-day residential school to participate in:
-
-1. Group-based project activities,
-2. Research seminars,
-3. Guided best practice tutorials,
-4. Individual-based research activities.
-
-Participants will be invited to submit follow-on work as part of an application for an internship at Roche.
+There will be an opportunity to submit follow-on work as part of an application for internships made exclusively available by Roche.
 
 ## Participants
 

@@ -1,6 +1,6 @@
 # Health Data Research UK-Roche Summer School 
 
-## Purpose
+## What is the purpose of the summer school?
 
 The purpose of this Summer School is to provide an intensive industry-led training in health data science. The featured topic of this summer school is **spatial single-cell imaging**. 
 
@@ -8,7 +8,7 @@ During the event, participants will be introduced to the scientific utility of s
 
 There will be an opportunity to submit follow-on work as part of an application for internships made exclusively available by Roche.
 
-## Participants
+## Who should apply?
 
 The participants are expected to:
 
@@ -16,9 +16,9 @@ The participants are expected to:
 2. Have experience in biomedical or health data research,
 3. Possess mature and competent programming abilities in a modern environment,
 
-This summer school is unlikely to be suitable for those with **direct** research experience of spatial single-cell analysis. 
+This summer school is unlikely to be suitable for those already with **direct** research experience of spatial single-cell analysis. 
 
-Those who wish to apply for internships will need to be eligible to work in the UK, EU or Switzerland.
+If you wish to apply for internships, you will need to be eligible to work in the UK, EU or Switzerland.
 
 ## Event Information
 

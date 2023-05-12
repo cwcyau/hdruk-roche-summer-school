@@ -10,6 +10,14 @@ During the event, participants will be introduced to the scientific utility of s
 
 As part of the summer school, participants will have an opportunity to submit follow-on work for competitive internships made exclusively available by Roche.
 
+## How much will it cost me to attend?
+
+Thanks to sponsorship by Roche and support from Health Data Research UK, we have made the event *almost* completely free. 
+
+There is no cost for tuition and accommodation for the event but participants will need to cover their own transport and some meals.
+
+However, as we have experienced last-minute drop-outs in the past, we will be charging participants a registration fee of £100.
+
 ## Who should apply?
 
 The participants are expected to:

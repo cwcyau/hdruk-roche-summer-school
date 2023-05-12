@@ -1,5 +1,7 @@
 # Health Data Research UK-Roche Summer School 
 
+This summer school is being convened by [Health Data Research UK](http://www.hdruk.ac.uk) in partnership with [Roche](http://www.roche.com) and enabled through [UKRI Turing AI Fellowship](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships) awarded to the lead organiser, [Professor Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) at the University of Oxford.
+
 ## What is the purpose of the summer school?
 
 The purpose of this Summer School is to provide an intensive period of industry-led training in health data science. The featured topic of this summer school is **single-cell imaging analysis**. 

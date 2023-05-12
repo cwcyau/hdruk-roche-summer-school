@@ -4,7 +4,7 @@
 
 The purpose of this Summer School is to provide an intensive industry-led training in health data science. 
 
-The featured topic 
+The featured topic is **Spatial single-cell imaging**.
 
 Up to 16 participants will be invited to a 5-day residential school to participate in:
 

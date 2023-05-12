@@ -1,6 +1,6 @@
 # Health Data Research UK-Roche Summer School 
 
-This summer school is being convened by [Health Data Research UK](http://www.hdruk.ac.uk) in partnership with [Roche](http://www.roche.com) and enabled through [UKRI Turing AI Fellowship](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships) awarded to the lead organiser, [Professor Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) at the University of Oxford.
+This summer school is being convened by [Health Data Research UK](http://www.hdruk.ac.uk) in partnership with [Roche](http://www.roche.com) and enabled through [UKRI Turing AI Fellowship](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships) awarded to the lead organiser, [Professor Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) at the University of Oxford. It forms part of our [Wellcome PhD programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).
 
 ## What is the purpose of the summer school?
 
@@ -16,11 +16,21 @@ The participants are expected to:
 
 1. Be studying for a PhD in a substantively quantitative subject,
 2. Have experience in biomedical or health data research,
-3. Possess mature and competent programming abilities in a modern environment,
+3. Possess mature and competent programming abilities in a modern environment.
 
-This summer school is unlikely to be suitable for those already with **direct** research experience of spatial single-cell analysis. 
+This summer school is unlikely to be suitable for those already with **direct** research experience of spatial single-cell analysis.
 
 If you wish to apply for internships, you will need to be eligible to work in the UK, EU or Switzerland.
+
+## How do you register?
+
+If you are interested in participating in the summer school, please express your interest using the [registration form](https://forms.gle/1TKE4WMYMJ5TL92q9).
+
+The deadline for applications is **30 May 2023**.
+
+After this date, applications will be screened for their basic eligibility and then places assigned randomly by lottery. A waiting list will be maintained for those who wish to be informed of withdrawals and late openings.
+
+Please note that during an earlier expression of interest call, the number of registrations vastly exceeded the number of available places so please ensure your applications are complete and entered by the end date.
 
 ## Event Information
 
@@ -51,12 +61,3 @@ Coffee and light refreshments will be available during the summer school activit
 **Rail** Solihull Rail Station is on the Chiltern Mainline with direct connections to Birmingham Moor Street Station and London Marylebone Station. There are frequent commuter trains from Birmingham Moor Street which is a short 5 minute walk from Birmingham New Street Station with connections to the rest of the UK.
 
 **Car** Solihull is a relatively quiet town. Parking is available at the hotel and participants should contact the hotel direct for further information.
-
-
-
-
-
-
-
-
-

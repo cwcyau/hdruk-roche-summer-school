@@ -16,7 +16,7 @@ Thanks to sponsorship by Roche and support from Health Data Research UK, we have
 
 There is no cost for tuition and accommodation for the event but participants will need to cover their own transport and some meals.
 
-However, as we have experienced last-minute drop-outs in the past, we will be charging participants a registration fee of £100.
+However, as we have experienced last-minute drop-outs in the past for similar events, we will be asking participants to contribute a registration fee of £100 to secure their place. 
 
 ## Who should apply?
 

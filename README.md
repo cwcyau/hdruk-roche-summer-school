@@ -31,11 +31,11 @@ Registration fees:
 - HDRUK Wellcome PhD student (**free**)
 - All other PhD students (**£100**)
 
-Your registration fee will cover tuition, accommodation and a number of meals.
+Your registration fee will cover tuition, accommodation and a number of meals. If you are invited to participate, fees must be paid within 10 working days to ensure your place is secured. 
 
-## How do you register?
+## How do I apply?
 
-If you are interested in participating in the summer school, please express your interest using the [registration form](https://forms.gle/1TKE4WMYMJ5TL92q9).
+If you are interested in applying to participate in the summer school, please express your interest using the [registration form](https://forms.gle/1TKE4WMYMJ5TL92q9).
 
 The deadline for applications is **30 May 2023**.
 
@@ -72,3 +72,7 @@ Coffee and light refreshments will be available during the summer school activit
 **Rail** Solihull Rail Station is on the Chiltern Mainline with direct connections to Birmingham Moor Street Station and London Marylebone Station. There are frequent commuter trains to/from Birmingham Moor Street which is a short 5 minute walk from Birmingham New Street Station with connections to the rest of the UK.
 
 **Car** Solihull has good road connectivity via the M42. Parking is available at the hotel and participants should contact the hotel direct for further information.
+
+### Cancellations
+
+With 

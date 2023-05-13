@@ -8,7 +8,9 @@ The purpose of this Summer School is to provide an intensive period of industry-
 
 During the event, participants will be introduced to the scientific utility of spatial single-cell imaging analysis. You will learn about the biological questions that motivate the use of spatial single-cell analysis, the technologies allowing data to be acquired, and the workflow of data processing required to convert acquired images into research-ready molecular and cellular analysis datasets. There will be time for participants to work in small groups to explore some exemplar data sets and tackle some research questions under the guidance of Roche scientists.
 
-As part of the summer school, participants will have an opportunity to submit follow-on work for competitive internships made exclusively available by Roche.
+## Internships
+
+As part of the summer school, participants will have an opportunity to submit follow-on work for competitive internships made exclusively available by Roche to HDRUK. Further information will be provided to participants at the summer school.
 
 ## Who should apply?
 

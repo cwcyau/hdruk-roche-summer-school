@@ -16,7 +16,7 @@ The participants are expected to:
 
 1. Be studying for a PhD in a substantively quantitative subject,
 2. Have experience in biomedical or health data research,
-3. Possess mature and competent programming abilities in a modern environment.
+3. Possess mature and competent scientific programming abilities in Python or R.
 
 This summer school is unlikely to be suitable for those already with **direct** research experience of spatial single-cell analysis.
 
@@ -57,14 +57,6 @@ The summer school will take place over a weekend between 14-17 July 2023. Exact 
 
 The summer school will take place in the [Crowne Plaza Hotel, 61 Homer Rd, Solihull B91 3QD](https://www.ihg.com/crowneplaza/hotels/gb/en/solihull/bhxsl/hoteldetail).
 
-### Accommodation
-
-Double rooms have been booked for all summer school participants in the Crowne Plaza Hotel. Breakfast is included. All guests will have use of the hotel facilities including swimming pool and gym. Participants wishing to use additional services, such as spa treatments, should do so outside of scheduled summer school hours. These must be booked for and pay for directly by participants themselves. HDRUK will not fund additional room service charges.
-
-### Meals
-
-Coffee and light refreshments will be available during the summer school activities. There will be a school organised dinner on the Friday and Sunday evening. Participants are responsible for their own meal arrangements at all other times.
-
 ### Getting Here - Public Transport 
 
 **Air** Birmingham Airport is located 6.1 miles from Solihull. There is an express bus that goes to and from the Airport to Solihull Town Centre.
@@ -73,6 +65,22 @@ Coffee and light refreshments will be available during the summer school activit
 
 **Car** Solihull has good road connectivity via the M42. Parking is available at the hotel and participants should contact the hotel direct for further information.
 
+### Accommodation
+
+Double rooms have been booked for all summer school participants in the Crowne Plaza Hotel. Breakfast is included. All guests will have use of the hotel facilities including swimming pool and gym. Participants wishing to use additional services, such as spa treatments, should do so outside of scheduled summer school hours. These must be booked for and pay for directly by participants themselves. HDRUK will not fund additional room service charges.
+
+### Meals
+
+Coffee and light refreshments will be available during the summer school activities. There will be a school organised dinner on the Friday and Sunday evening. Participants are responsible for their own meal arrangements at all other times.
+
+### What will I need to bring or arrange in advance?
+
+For this summer school, you will need:
+
+1. a personal laptop,
+2. some basic stationary,
+3. access to high-performance computing facilities and/or a Google account to access [Google Colab](https://colab.research.google.com/).
+
 ### Cancellations
 
-With 
+If circumstances beyond our control lead to an event cancellation for any reason, any registration fees will be refunded. However, participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HDRUK to refund any incurred costs if a cancellation occurs.

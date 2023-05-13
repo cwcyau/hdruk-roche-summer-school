@@ -10,14 +10,6 @@ During the event, participants will be introduced to the scientific utility of s
 
 As part of the summer school, participants will have an opportunity to submit follow-on work for competitive internships made exclusively available by Roche.
 
-## How much will it cost me to attend?
-
-Thanks to sponsorship by Roche and support from Health Data Research UK, we have made the event *almost* completely free. 
-
-There is no cost for tuition and accommodation for the event but participants will need to cover their own transport and some meals.
-
-However, as we have experienced last-minute drop-outs in the past for similar events, we will be asking participants to contribute a registration fee of £100 to secure their place. 
-
 ## Who should apply?
 
 The participants are expected to:
@@ -29,6 +21,17 @@ The participants are expected to:
 This summer school is unlikely to be suitable for those already with **direct** research experience of spatial single-cell analysis.
 
 If you wish to apply for internships, you will need to be eligible to work in the UK, EU or Switzerland.
+
+## How much will it cost me to attend?
+
+Thanks to sponsorship by Roche and support from Health Data Research UK, we are able to offer the event available at minimal cost. 
+
+Registration fees:
+
+- HDRUK Wellcome PhD student (**free**)
+- All other PhD students (**£100**)
+
+Your registration fee will cover tuition, accommodation and a number of meals.
 
 ## How do you register?
 
@@ -44,28 +47,28 @@ Please note that during an earlier expression of interest call, the number of re
 
 ### Dates
 
-The summer school will take place over a weekend between 14-17 July 2023. Times are to be determined but we envisage a midday start on Friday, 14th July and a late afternoon finish on Monday, 17th July.
+The summer school will take place over a weekend between 14-17 July 2023. Exact times are to be confirmed but we envisage a midday start on Friday, 14th July 2023 and a late afternoon finish on Monday, 17th July 2023.
 
 ### Location
 
-Solihull is a large market town in the West Midlands County or England. The town is located 7.5 miles (12 km) southeast of Birmingham, 13 miles (21 km) west of Coventry, 18 miles (29 km) northwest of Warwick and 110 miles (177 km) northwest of London.
+[Solihull](https://en.wikipedia.org/wiki/Solihull) is a large market town in the West Midlands County or England. The town is located 7.5 miles (12 km) southeast of Birmingham, 13 miles (21 km) west of Coventry, 18 miles (29 km) northwest of Warwick and 110 miles (177 km) northwest of London.
 
 ### Venue
 
-The summer school will take place in the Crowne Plaza Hotel, 61 Homer Rd, Solihull B91 3QD
+The summer school will take place in the [Crowne Plaza Hotel, 61 Homer Rd, Solihull B91 3QD](https://www.ihg.com/crowneplaza/hotels/gb/en/solihull/bhxsl/hoteldetail).
 
 ### Accommodation
 
-Double rooms have been booked for all summer school participants in the Crowne Plaza Hotel. Breakfast is included. All guests will have use of the hotel facilities including swimming pool and gym. Participants wishing to use additional services, such as spa treatments, should do so outside of scheduled summer school hours and must be booked for and pay for directly themselves. HDRUK will not fund additional room service charges.
+Double rooms have been booked for all summer school participants in the Crowne Plaza Hotel. Breakfast is included. All guests will have use of the hotel facilities including swimming pool and gym. Participants wishing to use additional services, such as spa treatments, should do so outside of scheduled summer school hours. These must be booked for and pay for directly by participants themselves. HDRUK will not fund additional room service charges.
 
 ### Meals
 
-Coffee and light refreshments will be available during the summer school activities. There will be a school organised dinner on Friday and Sunday evening. Participants are responsible for their own meal arrangements at all other times.
+Coffee and light refreshments will be available during the summer school activities. There will be a school organised dinner on the Friday and Sunday evening. Participants are responsible for their own meal arrangements at all other times.
 
 ### Getting Here - Public Transport 
 
 **Air** Birmingham Airport is located 6.1 miles from Solihull. There is an express bus that goes to and from the Airport to Solihull Town Centre.
 
-**Rail** Solihull Rail Station is on the Chiltern Mainline with direct connections to Birmingham Moor Street Station and London Marylebone Station. There are frequent commuter trains from Birmingham Moor Street which is a short 5 minute walk from Birmingham New Street Station with connections to the rest of the UK.
+**Rail** Solihull Rail Station is on the Chiltern Mainline with direct connections to Birmingham Moor Street Station and London Marylebone Station. There are frequent commuter trains to/from Birmingham Moor Street which is a short 5 minute walk from Birmingham New Street Station with connections to the rest of the UK.
 
-**Car** Solihull is a relatively quiet town. Parking is available at the hotel and participants should contact the hotel direct for further information.
+**Car** Solihull has good road connectivity via the M42. Parking is available at the hotel and participants should contact the hotel direct for further information.

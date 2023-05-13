@@ -1,6 +1,6 @@
 # Health Data Research UK-Roche Summer School 
 
-This summer school is being convened by [Health Data Research UK](http://www.hdruk.ac.uk) in partnership with [Roche](http://www.roche.com) and enabled through [UKRI Turing AI Fellowship](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships) awarded to the lead organiser, [Professor Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) at the University of Oxford. It forms part of our [Wellcome PhD programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).
+This summer school is being convened by [Health Data Research UK](http://www.hdruk.ac.uk) in partnership with [Roche](http://www.roche.com) and enabled through [UKRI Turing AI Fellowship](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships) awarded to the lead organiser, [Professor Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) at the University of Oxford. It forms part of the immersion week series of the [HDRUK-Turing Wellcome PhD programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).
 
 ## What is the purpose of the summer school?
 

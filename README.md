@@ -41,7 +41,7 @@ If you are interested in applying to participate in the summer school, please ex
 
 The deadline for applications is **30 May 2023**.
 
-After this date, applications will be screened for their basic eligibility and then places assigned randomly by lottery. A waiting list will be maintained for those who wish to be informed of withdrawals and late openings.
+After this date, applications will be screened for their basic eligibility and then places assigned randomly by lottery. A waiting list will be maintained for those who wish to be informed of withdrawals and late openings. There are a maximum of 16 (sixteen) places available.
 
 Please note that during an earlier expression of interest call, the number of registrations vastly exceeded the number of available places so please ensure your applications are complete and entered by the end date.
 

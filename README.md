@@ -80,9 +80,13 @@ Coffee and light refreshments will be available during the summer school activit
 For this summer school, you will need:
 
 1. a personal laptop,
-2. some basic stationary,
+2. some basic stationery,
 3. access to high-performance computing facilities and/or a Google account to access [Google Colab](https://colab.research.google.com/).
 
 ### Cancellations
 
 If circumstances beyond our control lead to an event cancellation for any reason, any registration fees will be refunded. However, participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HDRUK to refund any incurred costs if a cancellation occurs.
+
+## Contact
+
+For any enquiries, please contact the Health Data Research UK PhD Programme [phd@hdruk.ac.uk](phd@hdruk.ac.uk).

@@ -32,11 +32,12 @@ The summer school will take place over a weekend between 14-17 July 2023.
 |   |15:00|15:30|Refreshments Break|
 |   |16:00|17:00|Introduction to Roche|
 |   |18:00|Late |[Dinner]([https://tastecollectivesolihull.co.uk/](https://tapandtandoor.co.uk/))| 
-|Mon|09:00|12:00|Group Work (plus project submission)|
+|Mon|09:00|11:00|Group Work (plus project submission)|
 |   |10:30|11:00|Refreshments Break|
+|   |11:00|12:00|Project Presentations|
 |   |12:00|13:00|Lunch|
 |   |13:00|14:00|Roche Presentations + Q/A (tbc)|
-|   |14:00|14:30|Closing Remarks|
+|   |14:00|14:30|Closing Remarks + Winner's Announcement|
 |   |14:30|15:00|Refreshments Break + Departures|
 
 ### Location

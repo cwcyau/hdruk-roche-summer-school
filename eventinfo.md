@@ -14,7 +14,7 @@ The summer school will take place over a weekend between 14-17 July 2023.
 |      |14:00|15:00|Group formation|
 |      |15:00|15:30|Refreshments Break + Hotel Check-in|
 |      |15:30|17:00|Data Exploration|
-|      |18:00|Late |[Dinner](https://tastecollectivesolihull.co.uk/) & [Jazz](https://solihullbid.co.uk/events/solihull-jazz-festival-2023/)| 
+|      |18:00|Late |[Dinner: Taste Collective](https://tastecollectivesolihull.co.uk/) & [Jazz](https://solihullbid.co.uk/events/solihull-jazz-festival-2023/)| 
 |Sat|09:00|12:00|Group Work|
 |   |09:30|10:00|Group Feedback|
 |   |10:00|10:30|Lecture: Cell Type Classification|
@@ -31,7 +31,7 @@ The summer school will take place over a weekend between 14-17 July 2023.
 |   |13:30|17:00|Group Work|
 |   |15:00|15:30|Refreshments Break|
 |   |16:00|17:00|Introduction to Roche|
-|   |18:00|Late |[Dinner]([https://tastecollectivesolihull.co.uk/](https://tapandtandoor.co.uk/))| 
+|   |18:00|Late |[Dinner: Tap & Tandoor](https://tapandtandoor.co.uk/)| 
 |Mon|09:00|11:00|Group Work (plus project submission)|
 |   |10:30|11:00|Refreshments Break|
 |   |11:00|12:00|Project Presentations|

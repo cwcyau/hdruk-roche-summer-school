@@ -24,7 +24,6 @@ The summer school will take place over a weekend between 14-17 July 2023.
 |   |15:30|16:00|Lecture: Daniel Butnaru (Roche)|
 |Sun|09:00|12:00|Group Work|
 |   |09:30|10:00|Group Feedback|
-|   |10:00|12:00|Lecture: Issues in Signal Cell Analysis|
 |   |10:30|11:00|Refreshments Break|
 |   |12:00|13:30|Lunch|
 |   |13:30|17:00|Group Work|

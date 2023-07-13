@@ -17,26 +17,25 @@ The summer school will take place over a weekend between 14-17 July 2023.
 |      |18:00|Late |[Dinner: Taste Collective](https://tastecollectivesolihull.co.uk/) & [Jazz](https://solihullbid.co.uk/events/solihull-jazz-festival-2023/)| 
 |Sat|09:00|12:00|Group Work|
 |   |09:30|10:00|Group Feedback|
-|   |10:00|10:30|Lecture: Cell Type Classification|
 |   |10:30|11:00|Refreshments Break|
 |   |12:00|13:30|Lunch|
 |   |13:30|17:00|Group Work|
 |   |15:00|15:30|Refreshments Break|
-|   |15:30|16:00|Lecture: Novelty Detection|
+|   |15:30|16:00|Lecture: Daniel Butnaru (Roche)|
 |Sun|09:00|12:00|Group Work|
 |   |09:30|10:00|Group Feedback|
-|   |10:00|10:30|Lecture: Issues in Signal Cell Analysis|
+|   |10:00|12:00|Lecture: Issues in Signal Cell Analysis|
 |   |10:30|11:00|Refreshments Break|
 |   |12:00|13:30|Lunch|
 |   |13:30|17:00|Group Work|
 |   |15:00|15:30|Refreshments Break|
-|   |16:00|17:00|Introduction to Roche|
+|   |16:00|17:00|AI @ Roche (Satu Nakhuri)|
 |   |18:00|Late |[Dinner: Tap & Tandoor](https://tapandtandoor.co.uk/)| 
 |Mon|09:00|11:00|Group Work (plus project submission)|
 |   |10:30|11:00|Refreshments Break|
 |   |11:00|12:00|Project Presentations|
 |   |12:00|13:00|Lunch|
-|   |13:00|14:00|Roche Presentations + Q/A (tbc)|
+|   |13:00|14:00|Roche Presentations + Q/A|
 |   |14:00|14:30|Closing Remarks + Winner's Announcement|
 |   |14:30|15:00|Refreshments Break + Departures|
 
